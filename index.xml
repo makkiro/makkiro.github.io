@@ -35,11 +35,20 @@
     </item>
     
     <item>
-      <title>Encargo 2</title>
+      <title>Encargo 3</title>
       <link>https://makkiro.github.io/docs/post_4/</link>
       <pubDate>Wed, 17 Jun 2020 19:30:08 +1000</pubDate>
       
       <guid>https://makkiro.github.io/docs/post_4/</guid>
+      <description>Contenido de mi encargo 2 de animación</description>
+    </item>
+    
+    <item>
+      <title>Encargo 4</title>
+      <link>https://makkiro.github.io/docs/post_5/</link>
+      <pubDate>Wed, 17 Jun 2020 19:30:08 +1000</pubDate>
+      
+      <guid>https://makkiro.github.io/docs/post_5/</guid>
       <description>Contenido de mi encargo 2 de animación</description>
     </item>
     
