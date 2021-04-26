@@ -53,6 +53,15 @@
     </item>
     
     <item>
+      <title>Encargo 7</title>
+      <link>https://makkiro.github.io/docs/post_8/</link>
+      <pubDate>Wed, 17 Jun 2020 19:30:08 +1000</pubDate>
+      
+      <guid>https://makkiro.github.io/docs/post_8/</guid>
+      <description>Contenido de mi encargo 8 diseño especulativo</description>
+    </item>
+    
+    <item>
       <title>Ejemplo Shortcodes</title>
       <link>https://makkiro.github.io/docs/ejemplo/</link>
       <pubDate>Wed, 17 Jun 2020 19:30:08 +1000</pubDate>
@@ -68,15 +77,6 @@
       
       <guid>https://makkiro.github.io/docs/markdown/</guid>
       <description>Ejemplos de uso de lenguaje Markdown para redactar las publicaciones.</description>
-    </item>
-    
-    <item>
-      <title>Encargo 7</title>
-      <link>https://makkiro.github.io/docs/post_8/</link>
-      <pubDate>Wed, 17 Jun 2020 19:30:08 +1000</pubDate>
-      
-      <guid>https://makkiro.github.io/docs/post_8/</guid>
-      <description>Contenido de mi encargo 8 diseño especulativo</description>
     </item>
     
   </channel>
