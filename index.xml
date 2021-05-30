@@ -71,15 +71,6 @@
     </item>
     
     <item>
-      <title>Examen</title>
-      <link>https://makkiro.github.io/docs/examen/</link>
-      <pubDate>Wed, 17 Jun 2020 19:30:08 +1000</pubDate>
-      
-      <guid>https://makkiro.github.io/docs/examen/</guid>
-      <description>Contenido de mi examen</description>
-    </item>
-    
-    <item>
       <title>Ejemplo Shortcodes</title>
       <link>https://makkiro.github.io/docs/ejemplo/</link>
       <pubDate>Wed, 17 Jun 2020 19:30:08 +1000</pubDate>
@@ -95,6 +86,15 @@
       
       <guid>https://makkiro.github.io/docs/markdown/</guid>
       <description>Ejemplos de uso de lenguaje Markdown para redactar las publicaciones.</description>
+    </item>
+    
+    <item>
+      <title>Examen</title>
+      <link>https://makkiro.github.io/docs/examen/</link>
+      <pubDate>Wed, 17 Jun 2020 19:30:08 +1000</pubDate>
+      
+      <guid>https://makkiro.github.io/docs/examen/</guid>
+      <description>Examen de Taller Integrado 26 de Mayo 2021</description>
     </item>
     
   </channel>
